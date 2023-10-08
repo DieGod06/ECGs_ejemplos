@@ -1,3 +1,6 @@
+import heartpy as hp
+import matplotlib.pyplot as plt
+
 data, timer = hp.load_exampledata(0)
 plt.figure(figsize=(16,4))
 plt.plot(data)
