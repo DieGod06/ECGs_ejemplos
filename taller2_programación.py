@@ -1,3 +1,6 @@
+pip install heartpy
+pip install streamlit
+
 import heartpy as hp
 import matplotlib.pyplot as plt
 
